@@ -1,6 +1,3 @@
-# NeuroNexus
-Projects with NeuroNexus
-
 Welcome to my GitHub repository for the "Number Guessing Game" and "To-Do List" projects!
 
 ## Number Guessing Game
